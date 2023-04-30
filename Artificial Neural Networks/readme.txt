@@ -1,1 +1,9 @@
-Given a Bank customer, build a neural network-based classifier that can determine whether they will leave or not in the next 6 months.
+
+Built an Artificial Neural Network to help the operations team identify the customers that are more likely to churn 
+
+Skills & Tools Covered
+
+  Tensorflow
+  Keras
+  ANN
+  Google colab
